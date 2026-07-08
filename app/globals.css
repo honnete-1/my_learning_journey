@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #4f46e5;
+  --secondary: #f59e0b;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #1f2937;
+  background-color: #ffffff;
+}
